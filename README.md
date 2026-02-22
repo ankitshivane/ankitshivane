@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-Brooo I’ve got you. 💪
-This is going to look *clean, senior-level, and recruiter-attracting* — not the generic “Hi there 👋” template stuff.
-
-I used your resume details  and structured this like a proper Senior Backend Engineer profile.
-
-You can copy-paste this entire content into your `README.md`.
-
 ---
 
 # 👋 Hi, I'm Ankit Shivane
@@ -153,23 +146,3 @@ I genuinely enjoy optimizing backend performance more than writing frontend code
 If an API response time drops by 200ms, my day is made. 😄
 
 ---
-
----
-
-# 🔥 Optional Add-On (If You Want It To Look Elite)
-
-You can also add:
-
-* 📌 Featured Projects section (with architecture diagram)
-* 📊 GitHub Stats badge
-* 🧠 “System Design Notes” repo link
-* 🧪 “Java Interview Preparation” repo
-* 🧰 “Microservices Boilerplate Template” repo
-
-If you want, I can create:
-
-* A **minimal clean version**
-* A **recruiter-focused version**
-* Or a **hardcore architect-level version**
-
-Tell me what vibe you want — corporate polished or tech beast mode. 😄
